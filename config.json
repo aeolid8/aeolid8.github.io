@@ -13,11 +13,8 @@
         {"name":".exe", "links": [
             {"name": "Dota 2", "url": "https://www.reddit.com/r/dota2"},
             {"name": "Darkest",    "url": "https://www.reddit.com/r/darkestdungeon"},
-            {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
             {"name": "Rainbow 6",    "url": "https://www.reddit.com/r/rainbow6"},
-            {"name": "XCOM",    "url": "https://www.reddit.com/r/xcom"},
             {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
-            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
             {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"}
 
 
@@ -31,33 +28,34 @@
             {"name": "Artisan Videos",    "url": "https://www.reddit.com/r/artisanvideos"}
         ]},    
        
-        {"name":".psd", "links": [
+        {"name":"dnd", "links": [
+            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
             {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
             {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
             {"name": "5e",    "url": "https://www.reddit.com/r/dndnext"},
             {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
-            {"name": "/tv/",       "url": "http://www.4chan.org/trash/"},
             {"name": "/g/",          "url": "http://www.4chan.org/g/"},
             {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
 
 
         ]},
         
-        {"name":".html", "links": [
-            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
+        {"name":"other", "links": [
+            {"name": "omnivox",          "url": "https://johnabbott.omnivox.ca/"},
 
             
         ]},
        
-        {"name":".pdf", "links": [
-            {"name": "omnivox",          "url": "https://johnabbott.omnivox.ca/"},
+        {"name":"p", "links": [
             {"name": "/vg/",      "url": "https://myhentaicomics.com/"},
             {"name": "/g/",          "url": "http://www.4chan.org/gif/"},
+            {"name": "/tv/",       "url": "http://www.4chan.org/trash/"},
             {"name": "/g/",          "url": "https://e621.net/post/index?tags=comic"},
             {"name": "/vg/",      "url": "https://e621.net/post/index/1/animated"},
+            {"name": "/vg/",      "url": "https://e621.net/post/index/1/trapped"},
             {"name": "/vg/",      "url": "https://fetlife.com/inbox"},
+            {"name": "/vg/",      "url": "yiff.party"},
             {"name": "/g/",          "url": "https://nhentai.net/"},
             {"name": "/vg/",      "url": "http://www.furaffinity.net/msg/submissions/"}
 
