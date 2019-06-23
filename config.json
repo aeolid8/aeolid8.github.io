@@ -42,7 +42,7 @@
         ]},
         
         {"name":"other", "links": [
-            {"name": "omnivox",          "url": "https://johnabbott.omnivox.ca/"},
+            {"name": "omnivox",          "url": "https://johnabbott.omnivox.ca/"}
 
             
         ]},
